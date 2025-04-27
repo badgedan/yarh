@@ -26,7 +26,7 @@ This is useful when you need to manually inspect multiple domains, such as durin
 
 1. Run the script:
     ```bash
-    python launch_tabs.py
+    python yarh.py
     ```
 
 2. Input the file path when prompted:
